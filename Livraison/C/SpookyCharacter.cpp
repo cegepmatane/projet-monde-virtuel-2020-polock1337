@@ -93,8 +93,7 @@ void ASpookyCharacter::attraperObjetRecuperable()
 		if (objetRecuperable)
 		{
 			objetRecuperable->attraper();
-			GetCharacterMovement()->MaxWalkSpeed = 1000.f;
-			GetCharacterMovement()->JumpZVelocity = 2000.f;
+			GetCharacterMovement()->MaxWalkSpeed = this->bonus;
 		}
 	}
 }

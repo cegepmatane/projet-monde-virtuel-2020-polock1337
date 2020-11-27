@@ -40,6 +40,8 @@ protected:
 	// End of APawn interface
 
 private:
+	UPROPERTY(visibleAnywhere, BlueprintReadOnly, Category = "Bonus", meta = (AllowPrivateAccess = "true"))
+	float bonus=1000.0f;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly,category ="Attrapeur" , meta = (AllowPrivateAccess = "true"))
 	class USphereComponent* attrapeur;
 	void attraperObjetRecuperable();
