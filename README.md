@@ -17,3 +17,12 @@ https://www.turbosquid.com/fr/3d-models/creature-ztl-zbrush-3d-model-1393373
 
 Squelette 3dm modèle 3D(Serac)
 https://www.turbosquid.com/fr/3d-models/free-skeleton-3d-model/212223
+
+free-spooky-blanket(workingfortheweekend)
+https://www.cgtrader.com/free-3d-models/character/fantasy/free-spooky-blanket
+
+Old Little House Free low-poly 3D model(kamarajoffcl)
+https://www.cgtrader.com/free-3d-models/exterior/house/old-little-house
+
+Halloween Pumpkin Heads(JeepersCreepersUA)
+https://www.turbosquid.com/3d-models/free-halloween-pumpkin-3d-model/1084277
