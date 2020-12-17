@@ -3,8 +3,23 @@
 projet-monde-virtuel-2020-polock1337 created by GitHub Classroom
 
 Choix du sujet : Forêt qui fait peur
+## Projet 3 - Projet Monde Virtuel
+### LIVRAISON_ENNEMIS
 
-Crédit : 
+
+
+### LIVRAISON_DECOR et LIVRAISON_GRAPHIQUE
+
+## Projet 4 - Projet Monde Virtuel 2
+### Intelligence
+
+### OnBoarding
+
+### Données
+
+
+
+## Crédit : 
 
 Cauldron Low Polygon (Marco Valenzuela):
 https://www.turbosquid.com/3d-models/free-obj-model-witch-cauldron/1087374
