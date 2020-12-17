@@ -7,19 +7,19 @@ Choix du sujet : Forêt qui fait peur
 ### LIVRAISON_ENNEMIS
 lien youtube :
 https://youtu.be/oSHMmnIH2k8
+
 https://youtu.be/Q7slIelX-g8
 ### LIVRAISON_DECOR et LIVRAISON_GRAPHIQUE
 https://youtu.be/3kshE4CK6fk
+
 https://youtu.be/CK2AkHaxiH8
 ## Projet 4 - Projet Monde Virtuel 2
 ### Intelligence
-
+https://youtu.be/7IBMr0pVjA4
 ### OnBoarding
-
+https://youtu.be/4Q1dwHLJzT8
 ### Données
-
-
-
+https://youtu.be/6CY-qcf6JOs
 ## Crédit : 
 
 Cauldron Low Polygon (Marco Valenzuela):
